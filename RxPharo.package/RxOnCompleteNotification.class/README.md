@@ -1,0 +1,1 @@
+Represents an on_completed notification to an observer.

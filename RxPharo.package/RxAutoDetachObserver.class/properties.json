@@ -1,0 +1,15 @@
+{
+	"category" : "RxPharo-Core-Observer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"observer",
+		"subscription" ],
+	"name" : "RxAutoDetachObserver",
+	"pools" : [
+		 ],
+	"super" : "RxObserver",
+	"type" : "normal" }

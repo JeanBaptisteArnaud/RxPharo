@@ -1,0 +1,21 @@
+{
+	"category" : "RxPharo-Core-Subjects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RxInnerSubscription" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stopped",
+		"onErrorAction",
+		"onCompletedAction",
+		"onNextAction",
+		"observers",
+		"mutex",
+		"disposed",
+		"error" ],
+	"name" : "RxSubject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

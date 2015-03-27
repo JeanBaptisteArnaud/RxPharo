@@ -1,0 +1,17 @@
+{
+	"category" : "RxPharo-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jeanbaptistearnaud 3/13/2015 14:58",
+	"instvars" : [
+		"unsubscribed",
+		"mutex",
+		"interval",
+		"thread" ],
+	"name" : "RxTicker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

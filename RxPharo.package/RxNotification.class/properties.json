@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Notification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jeanbaptistearnaud 3/13/2015 00:06",
+	"instvars" : [
+		 ],
+	"name" : "RxNotification",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

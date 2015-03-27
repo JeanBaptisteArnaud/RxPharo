@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Scheduler",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RxImmediateScheduler",
+	"pools" : [
+		 ],
+	"super" : "RxLocalScheduler",
+	"type" : "normal" }

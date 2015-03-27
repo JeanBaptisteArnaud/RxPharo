@@ -1,0 +1,17 @@
+{
+	"category" : "RxPharo-Subscription",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jeanbaptistearnaud 3/16/2015 14:40",
+	"instvars" : [
+		"mutex",
+		"unsubscribed",
+		"set",
+		"singleSubscription" ],
+	"name" : "RxSingleAssignmentSubscription",
+	"pools" : [
+		 ],
+	"super" : "RxSubscription",
+	"type" : "normal" }

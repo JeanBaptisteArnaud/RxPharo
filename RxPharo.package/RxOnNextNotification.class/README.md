@@ -1,0 +1,1 @@
+Represents an on_next notification to an observer.

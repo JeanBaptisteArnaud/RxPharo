@@ -1,0 +1,16 @@
+{
+	"category" : "RxPharo-Subscription",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"unsubscribeAction",
+		"mutex",
+		"unsubscribed" ],
+	"name" : "RxAnonymousSubscription",
+	"pools" : [
+		 ],
+	"super" : "RxSubscription",
+	"type" : "normal" }

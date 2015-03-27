@@ -1,0 +1,3 @@
+initialization
+destroy
+	thread terminate

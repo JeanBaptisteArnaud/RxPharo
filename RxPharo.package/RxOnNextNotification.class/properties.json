@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Notification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"next" ],
+	"name" : "RxOnNextNotification",
+	"pools" : [
+		 ],
+	"super" : "RxNotification",
+	"type" : "normal" }

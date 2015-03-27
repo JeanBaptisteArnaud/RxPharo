@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSubscription:" : "jeanbaptistearnaud 3/19/2015 12:19",
+		"clear" : "jeanbaptistearnaud 3/19/2015 12:22",
+		"delete:" : "jeanbaptistearnaud 3/19/2015 12:25",
+		"do:" : "jeanbaptistearnaud 3/19/2015 12:19",
+		"initialize" : "jeanbaptistearnaud 3/19/2015 12:19",
+		"isSubscribed" : "jeanbaptistearnaud 3/19/2015 12:19",
+		"unsubscribe" : "jeanbaptistearnaud 3/19/2015 12:18" } }

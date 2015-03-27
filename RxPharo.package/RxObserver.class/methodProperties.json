@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"create" : "jeanbaptistearnaud 3/12/2015 22:35",
+		"fromNotifier:" : "jeanbaptistearnaud 3/13/2015 00:04",
+		"onNextDo:" : "jeanbaptistearnaud 3/12/2015 22:34",
+		"onNextDo:onErrorDo:" : "jeanbaptistearnaud 3/12/2015 22:36",
+		"onNextDo:onErrorDo:onCompletedDo:" : "jeanbaptistearnaud 3/12/2015 22:33" },
+	"instance" : {
+		"asObserver" : "jeanbaptistearnaud 3/12/2015 22:38",
+		"dispose" : "jeanbaptistearnaud 3/12/2015 22:48",
+		"fail:" : "jeanbaptistearnaud 3/12/2015 23:12",
+		"initialize" : "jeanbaptistearnaud 3/12/2015 22:43",
+		"onCompleted" : "jeanbaptistearnaud 3/16/2015 18:27",
+		"onCompletedDo:" : "jeanbaptistearnaud 3/12/2015 22:52",
+		"onError:" : "jeanbaptistearnaud 3/17/2015 14:34",
+		"onErrorDo:" : "jeanbaptistearnaud 3/12/2015 22:52",
+		"onNext:" : "jeanbaptistearnaud 3/17/2015 14:40",
+		"onNextDo:" : "jeanbaptistearnaud 3/12/2015 22:52",
+		"toNotifier" : "jeanbaptistearnaud 3/13/2015 13:27",
+		"unsubscribe" : "jeanbaptistearnaud 3/12/2015 23:13" } }

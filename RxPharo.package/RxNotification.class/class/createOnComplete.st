@@ -1,0 +1,3 @@
+api
+createOnComplete
+	^RxOnCompleteNotification new

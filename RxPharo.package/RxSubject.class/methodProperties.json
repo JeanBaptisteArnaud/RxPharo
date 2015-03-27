@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"dispose" : "jeanbaptistearnaud 3/19/2015 12:33",
+		"fail:" : "jeanbaptistearnaud 3/19/2015 12:33",
+		"hasObservers" : "jeanbaptistearnaud 3/19/2015 12:37",
+		"initialize" : "jeanbaptistearnaud 3/19/2015 12:35",
+		"onCompleted" : "jeanbaptistearnaud 3/19/2015 15:46",
+		"onCompletedDo:" : "jeanbaptistearnaud 3/19/2015 12:34",
+		"onError:" : "jeanbaptistearnaud 3/19/2015 15:46",
+		"onErrorDo:" : "jeanbaptistearnaud 3/19/2015 12:34",
+		"onNext:" : "jeanbaptistearnaud 3/19/2015 15:46",
+		"onNextDo:" : "jeanbaptistearnaud 3/19/2015 12:34",
+		"subscribe:" : "jeanbaptistearnaud 3/19/2015 14:52",
+		"toNotifier" : "jeanbaptistearnaud 3/19/2015 12:34",
+		"unsubscribe" : "jeanbaptistearnaud 3/19/2015 14:57",
+		"unsubscribeObserver:" : "jeanbaptistearnaud 3/19/2015 15:45" } }

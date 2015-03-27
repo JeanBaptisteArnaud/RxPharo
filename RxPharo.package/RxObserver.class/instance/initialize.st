@@ -1,0 +1,3 @@
+api
+initialize
+	stopped := false

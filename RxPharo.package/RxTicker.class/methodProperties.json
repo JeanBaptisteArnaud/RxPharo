@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"run:every:" : "jeanbaptistearnaud 3/13/2015 14:57" },
+	"instance" : {
+		"destroy" : "jeanbaptistearnaud 3/13/2015 15:03",
+		"initialize" : "jeanbaptistearnaud 3/13/2015 14:53",
+		"run:every:" : "jeanbaptistearnaud 3/13/2015 17:43",
+		"unsubscribe" : "jeanbaptistearnaud 3/13/2015 17:27" } }

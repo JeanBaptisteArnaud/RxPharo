@@ -1,0 +1,1 @@
+Represents a group of subscription resources that are unsubscribed together

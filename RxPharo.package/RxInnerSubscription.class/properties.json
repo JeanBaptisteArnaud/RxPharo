@@ -1,0 +1,15 @@
+{
+	"category" : "RxPharo-Subscription",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subject",
+		"observer" ],
+	"name" : "RxInnerSubscription",
+	"pools" : [
+		 ],
+	"super" : "RxSubscription",
+	"type" : "normal" }

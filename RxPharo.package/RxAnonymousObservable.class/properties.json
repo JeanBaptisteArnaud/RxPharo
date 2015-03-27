@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Core-Observable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subscribe" ],
+	"name" : "RxAnonymousObservable",
+	"pools" : [
+		 ],
+	"super" : "RxObservable",
+	"type" : "normal" }

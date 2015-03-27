@@ -1,0 +1,1 @@
+Represents an on_error notification to an observer.

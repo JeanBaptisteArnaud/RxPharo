@@ -1,0 +1,15 @@
+{
+	"category" : "RxPharo-Core-Observable",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jeanbaptistearnaud 3/26/2015 15:38",
+	"instvars" : [
+		"count",
+		"ticker" ],
+	"name" : "RxIntegerLadderInterval",
+	"pools" : [
+		 ],
+	"super" : "RxObservable",
+	"type" : "normal" }
