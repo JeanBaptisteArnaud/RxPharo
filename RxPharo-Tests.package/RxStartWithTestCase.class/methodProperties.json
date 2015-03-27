@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"combinatoredStream" : "GuillermoPolito 12/23/2014 15:43",
+		"testCombinator" : "GuillermoPolito 12/23/2014 15:43",
+		"testErrorDoesNotPropagateValue" : "jeanbaptistearnaud 3/12/2015 23:14" } }

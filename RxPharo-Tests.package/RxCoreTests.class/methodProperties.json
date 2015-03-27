@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDetatchOnComplete" : "jeanbaptistearnaud 3/17/2015 14:54",
+		"testDetatchOnError" : "jeanbaptistearnaud 3/17/2015 15:07",
+		"testDoNotDetatchOnJustNext" : "jeanbaptistearnaud 3/17/2015 15:05",
+		"testSimpleCompleteOnSmallInteger" : "jeanbaptistearnaud 3/17/2015 15:32",
+		"testSimpleCompleteOnValue" : "jeanbaptistearnaud 3/16/2015 18:39",
+		"testSimpleCreate" : "jeanbaptistearnaud 3/26/2015 14:50",
+		"testSimpleDefer" : "jeanbaptistearnaud 3/26/2015 15:37",
+		"testSimpleEmpty" : "jeanbaptistearnaud 3/26/2015 15:12",
+		"testSimpleErrorOnSmallInteger" : "jeanbaptistearnaud 3/26/2015 15:21",
+		"testSimpleErrorOnValue" : "jeanbaptistearnaud 3/17/2015 14:37",
+		"testSimpleMultipleNextOnCollection" : "jeanbaptistearnaud 3/16/2015 18:24",
+		"testSimpleNever" : "jeanbaptistearnaud 3/26/2015 15:13",
+		"testSimpleNextOnCollection" : "jeanbaptistearnaud 3/16/2015 18:22",
+		"testSimpleNextOnSmallInteger" : "jeanbaptistearnaud 3/17/2015 15:29",
+		"testSimpleNextOnValue" : "jeanbaptistearnaud 3/16/2015 18:00",
+		"testSimpleNotCompleteOnErrorMultipleBugOnValue" : "jeanbaptistearnaud 3/17/2015 14:32",
+		"testSimpleNotCompleteOnErrorOnValue" : "jeanbaptistearnaud 3/17/2015 14:32",
+		"testSimpleRange" : "jeanbaptistearnaud 3/26/2015 15:47",
+		"testSimpleThrow" : "jeanbaptistearnaud 3/26/2015 15:17" } }

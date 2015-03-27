@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RxCoreTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

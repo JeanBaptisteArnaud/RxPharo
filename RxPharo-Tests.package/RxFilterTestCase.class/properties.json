@@ -1,0 +1,14 @@
+{
+	"category" : "RxPharo-Tests-Combinator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RxFilterTestCase",
+	"pools" : [
+		 ],
+	"super" : "RxCombinatorTestCase",
+	"type" : "normal" }

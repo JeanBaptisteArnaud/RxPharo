@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testManySubscriptionsReceiveTheEvent" : "jeanbaptistearnaud 3/16/2015 16:04",
+		"testSingleSubscriptionComplete" : "jeanbaptistearnaud 3/16/2015 16:30",
+		"testSingleSubscriptionError" : "jeanbaptistearnaud 3/16/2015 16:37",
+		"testSingleSubscriptionNext" : "jeanbaptistearnaud 3/16/2015 16:29" } }
